@@ -12,8 +12,8 @@ const prices = [
   { item: "Bab 5 (Penutup)", price: "Rp 500.000" },
   { item: "Formatting", price: "Rp 150.000" },
   { item: "PPT Sidang", price: "Rp 200.000" },
-  { item: "Artikel Jurnal", price: "Rp 650.000" },
-  { item: "Makalah", price: "Rp 500.000" },
+  { item: "Artikel Jurnal (Mulai dari)", price: "Rp 150.000" },
+  { item: "Makalah (Mulai dari)", price: "Rp 75.000" },
 ];
 
 const PriceListSection = () => {
