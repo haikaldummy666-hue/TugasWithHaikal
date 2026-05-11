@@ -4,9 +4,9 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   { name: "Maulidan", univ: "Universitas Nusa Putra", text: "Skripsi selesai tepat waktu, revisi cepat, dan hasilnya memuaskan banget! Recommended!", rating: 5 },
-  { name: "Maula R.", univ: "Universitas Lampung", text: "Awalnya ragu, tapi hasilnya bener-bener bagus. Anti plagiat dan penjelasannya detail.", rating: 5 },
-  { name: "Arjuna", univ: "UIN Sunan Ampel", text: "Tugas PPT dan makalah dikerjain cepet, rapih, dan harganya worth it. Pasti repeat order!", rating: 5 },
-  { name: "Nicholas", univ: "Universitas Indonesia", text: "Bimbingan online-nya sangat membantu, bisa diskusi bebas dan solusinya on point.", rating: 5 },
+  { name: "Angelina S.", univ: "Universitas Lampung", text: "Awalnya ragu, tapi hasilnya bener-bener bagus. Anti plagiat dan penjelasannya detail.", rating: 5 },
+  { name: "Nicholas F.", univ: "UIN Sunan Ampel", text: "Tugas PPT dan makalah dikerjain cepet, rapih, dan harganya worth it. Pasti repeat order!", rating: 5 },
+  { name: "Shopia", univ: "Universitas Indonesia", text: "Bimbingan online-nya sangat membantu, bisa diskusi bebas dan solusinya on point.", rating: 5 },
 ];
 
 const TestimonialsSection = () => {
